@@ -22,7 +22,6 @@ happy# Contributors
 - [JayJayleee](https://github.com/JayJayleee)
 - [Eric]
 - [Shibli]
-- [Cathy Ly] (https://github.com/cl2493)
 - [Mai Van Hoang]
 - [Ciprian] (https://github.com/borninthecoffin)
 - [Murat Tekin] (https://github.com/zxmod51)
@@ -66,6 +65,7 @@ happy# Contributors
 - [Neha-Gupta] (https://github.com/nehagupta1504) 
 - [sanyog-pardeshi]
 - [Obakepi]
+- [Cathy Ly] (https://github.com/cl2493)
 - [Ngonzi Bridget](https://github.com/bree256)
 - [AnshJain]
 - [TexelHack](https://github.com/texelh4ck)
